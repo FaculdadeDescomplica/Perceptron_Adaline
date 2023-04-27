@@ -17,4 +17,8 @@
 
 ### :chart_with_upwards_trend: Revisão Python 
 
+ # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+
+### :chart_with_upwards_trend: Revisão Pandas e Seaborn - Titanic
+
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
