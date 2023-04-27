@@ -15,7 +15,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:640/1*ZS7xxm9jkGIcRnH3QKs02g.gif"/>
 </p>
 
-### Revisão Python: :chart_with_upwards_trend:
-#### Introdução a Linguagem Python :computer:
+### :chart_with_upwards_trend: Revisão Python 
 
- [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
