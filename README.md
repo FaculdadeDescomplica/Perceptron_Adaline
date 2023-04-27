@@ -17,3 +17,5 @@
 
 ### Revisão Python: :chart_with_upwards_trend:
 #### Introdução a Linguagem Python :computer:
+
+ [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
