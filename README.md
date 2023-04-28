@@ -1,10 +1,8 @@
 # Perceptron e Adaline
 
-👨‍🏫 Professor de Sistemas de Informação & 🧪 Pesquisador em Nanomateriais | 💻 Cientista de Dados, Especialista em IoT
+<p align="justify"> Neste repositório, você encontrará os algoritmos essenciais relacionados à disciplina de Perceptron e Adaline, que são fundamentais no campo do aprendizado de máquina e, mais especificamente, nas redes neurais artificiais. Esses algoritmos são aplicados em várias tarefas e atuam como alicerces para a compreensão de conceitos mais avançados em redes neurais.
 
-🚀 Python, Machine Learning, IoT, Robótica | 🤖 Prototipagem de hardware e simulação computacional
-
-🌐 [LinkedIn](https://www.linkedin.com/in/rafael-r-barbosa/)
+Vale lembrar que o Perceptron e o Adaline têm um papel crucial no aprendizado de máquina, pois ajudam a estabelecer uma base sólida para a construção de modelos mais complexos. Aprender e dominar esses algoritmos é um passo importante para quem deseja se aprofundar no estudo de redes neurais e na aplicação prática de inteligência artificial.</p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
