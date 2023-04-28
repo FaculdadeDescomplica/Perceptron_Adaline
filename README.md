@@ -17,64 +17,64 @@
 
 ### :snake: Revisão Python 
 
- # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+ # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Revisao.ipynb) 
 
 ### :panda_face: Revisão Pandas e Seaborn - Titanic
 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Titanic.ipynb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Titanic.ipynb) 
 
 ### :chart_with_upwards_trend: Revisão de Vetores e Encadeamento 
 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Vetores_e_Encadeamento.ipynb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Vetores_e_Encadeamento.ipynb) 
 
 ### 🧠 Perceptron uma Camada 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Perceptron_Monolayer.ipynb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Perceptron_Monolayer.ipynb) 
 
 ### 🧠 Perceptron para Regressão Linear 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Perceptron_para_regress%C3%A3o_linear.ipynb) 
 
 ### 🧠 Perceptron uma Camada Modificado
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Perceptron_Monolayer_Modificado.ipynb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Perceptron_Monolayer_Modificado.ipynb) 
 
 ### 🧠 Perceptron uma Camada com Numpy
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Perceptron_Numpy.ipynb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Perceptron_Numpy.ipynb) 
 
 
 ### :o: TLU 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/TLU.ipynb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/TLU.ipynbb) 
 
 ### 🧠 Adaline 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
 
 ### :chart_with_downwards_trend: Derivada 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Derivada.ipynb)
 
 ### :twisted_rightwards_arrows: Conceito de Gradiente
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Gradiente.ipynb)
 
 ### :arrow_double_down: Gradiente Descendente
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Gradiente_Descendente.ipynb)
 
 ### :eight_pointed_black_star: Rede Neural + Gradiente Descendente
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Rede_Neural_com_GD_.ipynb)
 
 ### :globe_with_meridians: MultiLayer Perceptron Simples
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/MLP_Simples.ipynb)
 
 ### :rewind: Backpropagation
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
 
 ### :part_alternation_mark: Ações da Americanas (AMER3)
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/AMERICANAS.ipynb)
 
 ### :warning: MLP para Detectar Malware
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
 
 ### :no_entry: Resolvendo a Porta XOR
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Problema_XOR.ipynb)
 
 ### :bar_chart: Regressão Linear
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Simples_Regress%C3%A3o.ipynb)
 
 
 
