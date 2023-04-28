@@ -62,13 +62,13 @@
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/MLP_Simples.ipynb)
 
 ### :rewind: Backpropagation
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Aplica%C3%A7%C3%A3o_Backpropagation.ipynb)
 
 ### :part_alternation_mark: Ações da Americanas (AMER3)
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/AMERICANAS.ipynb)
 
 ### :warning: MLP para Detectar Malware
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Classifica%C3%A7%C3%A3o.ipynb)
 
 ### :no_entry: Resolvendo a Porta XOR
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Problema_XOR.ipynb)
