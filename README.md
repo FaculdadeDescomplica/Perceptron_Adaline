@@ -15,11 +15,11 @@
 <img src="https://miro.medium.com/v2/resize:fit:640/1*ZS7xxm9jkGIcRnH3QKs02g.gif"/>
 </p>
 
-### :chart_with_upwards_trend: Revisão Python 
+### :snake: Revisão Python 
 
  # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
 
-### :chart_with_upwards_trend: Revisão Pandas e Seaborn - Titanic
+### :panda_face: Revisão Pandas e Seaborn - Titanic
 
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Titanic.ipynb) 
 
@@ -45,4 +45,36 @@
 
 ### 🧠 Adaline 
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :chart_with_downwards_trend: Derivada 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :twisted_rightwards_arrows: Conceito de Gradiente
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :arrow_double_down: Gradiente Descendente
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :eight_pointed_black_star: Rede Neural + Gradiente Descendente
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :globe_with_meridians: MultiLayer Perceptron Simples
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :rewind: Backpropagation
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :part_alternation_mark: Ações da Americanas (AMER3)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :warning: MLP para Detectar Malware
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :no_entry: Resolvendo a Porta XOR
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+### :bar_chart: Regressão Linear
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
+
+
 
