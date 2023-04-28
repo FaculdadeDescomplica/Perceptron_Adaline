@@ -21,28 +21,28 @@
 
 ### :chart_with_upwards_trend: Revisão Pandas e Seaborn - Titanic
 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Titanic.ipynb) 
 
 ### :chart_with_upwards_trend: Revisão de Vetores e Encadeamento 
 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Vetores_e_Encadeamento.ipynb) 
 
 ### 🧠 Perceptron uma Camada 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Perceptron_Monolayer.ipynb) 
 
 ### 🧠 Perceptron para Regressão Linear 
 # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
 
 ### 🧠 Perceptron uma Camada Modificado
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Perceptron_Monolayer_Modificado.ipynb) 
 
 ### 🧠 Perceptron uma Camada com Numpy
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Perceptron_Numpy.ipynb) 
 
 
 ### :o: TLU 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb) 
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/TLU.ipynb) 
 
 ### 🧠 Adaline 
-# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Revisao.ipynbb)
+# :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/FaculdadeDescomplica/Perceptron_Adaline/blob/main/Pr%C3%A1tica_Adaline.ipynb)
 
