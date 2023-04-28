@@ -15,6 +15,7 @@ Vale lembrar que o Perceptron e o Adaline têm um papel crucial no aprendizado d
 
 ### :snake: Revisão Python 
 
+
  # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Perceptron_Adaline/blob/main/Revisao.ipynb) 
 
 ### :panda_face: Revisão Pandas e Seaborn - Titanic
